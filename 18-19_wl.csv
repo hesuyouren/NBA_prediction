@@ -1,0 +1,1231 @@
+win_T,lose_T,win_L,diff
+Boston Celtics,Philadelphia 76ers,H,18
+Golden State Warriors,Oklahoma City Thunder,H,8
+Milwaukee Bucks,Charlotte Hornets,A,1
+Detroit Pistons,Brooklyn Nets,H,3
+New Orleans Pelicans,Houston Rockets,A,19
+Indiana Pacers,Memphis Grizzlies,H,28
+Denver Nuggets,Los Angeles Clippers,A,9
+New York Knicks,Atlanta Hawks,H,19
+Orlando Magic,Miami Heat,H,3
+Phoenix Suns,Dallas Mavericks,H,21
+Utah Jazz,Sacramento Kings,A,6
+San Antonio Spurs,Minnesota Timberwolves,H,4
+Toronto Raptors,Cleveland Cavaliers,H,12
+Philadelphia 76ers,Chicago Bulls,H,19
+Portland Trail Blazers,Los Angeles Lakers,H,9
+Miami Heat,Washington Wizards,A,1
+Brooklyn Nets,New York Knicks,H,2
+Los Angeles Clippers,Oklahoma City Thunder,H,16
+Memphis Grizzlies,Atlanta Hawks,H,14
+Milwaukee Bucks,Indiana Pacers,H,17
+Minnesota Timberwolves,Cleveland Cavaliers,H,8
+New Orleans Pelicans,Sacramento Kings,H,20
+Charlotte Hornets,Orlando Magic,A,32
+Toronto Raptors,Boston Celtics,H,12
+Golden State Warriors,Utah Jazz,A,1
+Detroit Pistons,Chicago Bulls,A,2
+Dallas Mavericks,Minnesota Timberwolves,H,4
+Denver Nuggets,Phoenix Suns,H,28
+Indiana Pacers,Brooklyn Nets,H,20
+Houston Rockets,Los Angeles Lakers,A,9
+Charlotte Hornets,Miami Heat,A,1
+Boston Celtics,New York Knicks,A,2
+Philadelphia 76ers,Orlando Magic,H,1
+Portland Trail Blazers,San Antonio Spurs,H,13
+Toronto Raptors,Washington Wizards,A,4
+Atlanta Hawks,Cleveland Cavaliers,A,22
+Denver Nuggets,Golden State Warriors,H,2
+Los Angeles Clippers,Houston Rockets,H,3
+Sacramento Kings,Oklahoma City Thunder,A,11
+Orlando Magic,Boston Celtics,A,3
+Dallas Mavericks,Chicago Bulls,H,6
+Golden State Warriors,Phoenix Suns,H,20
+San Antonio Spurs,Los Angeles Lakers,A,1
+Milwaukee Bucks,New York Knicks,H,11
+Minnesota Timberwolves,Indiana Pacers,H,10
+Washington Wizards,Portland Trail Blazers,A,1
+Toronto Raptors,Charlotte Hornets,H,21
+Memphis Grizzlies,Utah Jazz,A,8
+Denver Nuggets,Sacramento Kings,H,14
+Detroit Pistons,Philadelphia 76ers,H,1
+New Orleans Pelicans,Los Angeles Clippers,H,7
+Atlanta Hawks,Dallas Mavericks,H,7
+Chicago Bulls,Charlotte Hornets,H,2
+Brooklyn Nets,Cleveland Cavaliers,A,16
+Golden State Warriors,Washington Wizards,H,22
+Utah Jazz,Houston Rockets,A,11
+Miami Heat,New York Knicks,H,23
+Milwaukee Bucks,Philadelphia 76ers,H,15
+Los Angeles Lakers,Phoenix Suns,A,18
+Sacramento Kings,Memphis Grizzlies,H,5
+Indiana Pacers,San Antonio Spurs,A,20
+Toronto Raptors,Minnesota Timberwolves,H,7
+Detroit Pistons,Cleveland Cavaliers,H,7
+Los Angeles Lakers,Denver Nuggets,H,7
+Boston Celtics,Oklahoma City Thunder,A,6
+Portland Trail Blazers,Orlando Magic,A,14
+Charlotte Hornets,Chicago Bulls,H,29
+Los Angeles Clippers,Houston Rockets,A,20
+Milwaukee Bucks,Minnesota Timberwolves,A,30
+New Orleans Pelicans,Brooklyn Nets,H,2
+Golden State Warriors,New York Knicks,A,28
+Sacramento Kings,Washington Wizards,H,4
+Toronto Raptors,Dallas Mavericks,H,9
+Chicago Bulls,Atlanta Hawks,A,12
+Indiana Pacers,Cleveland Cavaliers,A,12
+Boston Celtics,Detroit Pistons,A,20
+Memphis Grizzlies,Phoenix Suns,H,21
+Miami Heat,Portland Trail Blazers,H,9
+Milwaukee Bucks,Orlando Magic,H,22
+Utah Jazz,New Orleans Pelicans,A,21
+Philadelphia 76ers,Charlotte Hornets,H,2
+San Antonio Spurs,Los Angeles Lakers,H,4
+Golden State Warriors,Brooklyn Nets,A,6
+Utah Jazz,Dallas Mavericks,A,9
+Los Angeles Clippers,Washington Wizards,H,32
+Oklahoma City Thunder,Phoenix Suns,H,7
+Golden State Warriors,Chicago Bulls,A,25
+Denver Nuggets,New Orleans Pelicans,H,5
+Portland Trail Blazers,Indiana Pacers,A,10
+Sacramento Kings,Miami Heat,A,10
+Milwaukee Bucks,Toronto Raptors,H,15
+Minnesota Timberwolves,Los Angeles Lakers,H,4
+New York Knicks,Brooklyn Nets,H,19
+Philadelphia 76ers,Atlanta Hawks,H,21
+San Antonio Spurs,Dallas Mavericks,H,5
+Boston Celtics,Detroit Pistons,H,3
+Charlotte Hornets,Miami Heat,H,12
+Cleveland Cavaliers,Atlanta Hawks,H,22
+Portland Trail Blazers,Houston Rockets,A,19
+Memphis Grizzlies,Washington Wizards,H,12
+Oklahoma City Thunder,Los Angeles Clippers,H,18
+Sacramento Kings,Orlando Magic,A,8
+Toronto Raptors,Philadelphia 76ers,H,17
+Brooklyn Nets,Detroit Pistons,H,1
+Denver Nuggets,Chicago Bulls,A,1
+Golden State Warriors,New Orleans Pelicans,H,10
+Los Angeles Lakers,Dallas Mavericks,H,1
+Minnesota Timberwolves,Utah Jazz,H,3
+Indiana Pacers,New York Knicks,A,6
+San Antonio Spurs,Phoenix Suns,A,30
+Sacramento Kings,Atlanta Hawks,A,31
+Boston Celtics,Milwaukee Bucks,H,4
+Oklahoma City Thunder,Charlotte Hornets,A,4
+Denver Nuggets,Cleveland Cavaliers,A,19
+Philadelphia 76ers,Los Angeles Clippers,H,9
+Portland Trail Blazers,New Orleans Pelicans,H,13
+Houston Rockets,Brooklyn Nets,A,8
+Indiana Pacers,Chicago Bulls,A,2
+New York Knicks,Dallas Mavericks,A,12
+Golden State Warriors,Minnesota Timberwolves,H,17
+Los Angeles Clippers,Orlando Magic,A,25
+Toronto Raptors,Phoenix Suns,A,9
+Memphis Grizzlies,Utah Jazz,A,10
+Oklahoma City Thunder,Washington Wizards,A,23
+Atlanta Hawks,Miami Heat,H,5
+Houston Rockets,Chicago Bulls,A,8
+Charlotte Hornets,Cleveland Cavaliers,H,32
+Denver Nuggets,Utah Jazz,H,15
+Indiana Pacers,Boston Celtics,H,1
+Philadelphia 76ers,Detroit Pistons,H,10
+Los Angeles Lakers,Portland Trail Blazers,A,4
+San Antonio Spurs,New Orleans Pelicans,H,14
+Brooklyn Nets,Philadelphia 76ers,H,25
+Toronto Raptors,Los Angeles Lakers,A,14
+Milwaukee Bucks,Sacramento Kings,H,35
+Phoenix Suns,Memphis Grizzlies,H,2
+Portland Trail Blazers,Minnesota Timberwolves,H,30
+Orlando Magic,San Antonio Spurs,A,7
+Washington Wizards,New York Knicks,H,13
+Denver Nuggets,Boston Celtics,H,8
+Miami Heat,Detroit Pistons,A,5
+Golden State Warriors,Memphis Grizzlies,H,16
+Houston Rockets,Indiana Pacers,A,4
+Los Angeles Clippers,Minnesota Timberwolves,H,11
+Chicago Bulls,New York Knicks,A,1
+Oklahoma City Thunder,New Orleans Pelicans,H,6
+Orlando Magic,Cleveland Cavaliers,H,2
+Toronto Raptors,Utah Jazz,A,13
+Charlotte Hornets,Atlanta Hawks,H,11
+Dallas Mavericks,Washington Wizards,H,19
+Brooklyn Nets,Phoenix Suns,A,22
+Portland Trail Blazers,Milwaukee Bucks,H,15
+New York Knicks,Atlanta Hawks,A,5
+Oklahoma City Thunder,Cleveland Cavaliers,A,9
+Philadelphia 76ers,Indiana Pacers,A,6
+Los Angeles Lakers,Minnesota Timberwolves,H,4
+Memphis Grizzlies,Denver Nuggets,H,2
+Miami Heat,San Antonio Spurs,H,7
+New Orleans Pelicans,Chicago Bulls,H,9
+Detroit Pistons,Orlando Magic,A,7
+Toronto Raptors,Sacramento Kings,A,9
+Utah Jazz,Dallas Mavericks,H,15
+Milwaukee Bucks,Golden State Warriors,A,23
+Oklahoma City Thunder,Houston Rockets,H,18
+Boston Celtics,Phoenix Suns,A,7
+Portland Trail Blazers,Los Angeles Clippers,H,11
+Detroit Pistons,Atlanta Hawks,A,15
+Brooklyn Nets,Denver Nuggets,A,2
+Indiana Pacers,Miami Heat,A,8
+Orlando Magic,Washington Wizards,H,9
+Philadelphia 76ers,Charlotte Hornets,H,1
+Sacramento Kings,Minnesota Timberwolves,H,11
+Utah Jazz,Boston Celtics,H,8
+Chicago Bulls,Cleveland Cavaliers,H,1
+Dallas Mavericks,Oklahoma City Thunder,H,15
+Golden State Warriors,Brooklyn Nets,H,16
+Los Angeles Clippers,Milwaukee Bucks,H,2
+Memphis Grizzlies,Philadelphia 76ers,H,6
+Washington Wizards,Miami Heat,A,6
+New Orleans Pelicans,Phoenix Suns,H,20
+Los Angeles Lakers,Sacramento Kings,A,15
+San Antonio Spurs,Houston Rockets,H,7
+Toronto Raptors,New York Knicks,H,16
+Milwaukee Bucks,Denver Nuggets,A,7
+Charlotte Hornets,Detroit Pistons,A,10
+Houston Rockets,Indiana Pacers,H,12
+Los Angeles Lakers,Atlanta Hawks,H,1
+Orlando Magic,New York Knicks,A,26
+Portland Trail Blazers,Boston Celtics,H,6
+Dallas Mavericks,Chicago Bulls,A,5
+Los Angeles Clippers,Golden State Warriors,H,5
+Utah Jazz,Memphis Grizzlies,A,8
+Philadelphia 76ers,Miami Heat,A,10
+Minnesota Timberwolves,Brooklyn Nets,H,7
+Oklahoma City Thunder,Phoenix Suns,H,17
+Sacramento Kings,San Antonio Spurs,H,5
+New Orleans Pelicans,Toronto Raptors,A,16
+Washington Wizards,Orlando Magic,H,8
+Cleveland Cavaliers,Charlotte Hornets,H,24
+Houston Rockets,Denver Nuggets,A,10
+Golden State Warriors,Atlanta Hawks,H,7
+Boston Celtics,Chicago Bulls,H,29
+Miami Heat,Brooklyn Nets,A,13
+Dallas Mavericks,Utah Jazz,H,50
+Los Angeles Lakers,Portland Trail Blazers,H,9
+Memphis Grizzlies,Milwaukee Bucks,A,3
+Minnesota Timberwolves,New Orleans Pelicans,H,7
+Oklahoma City Thunder,New York Knicks,H,25
+Orlando Magic,Philadelphia 76ers,H,5
+Phoenix Suns,San Antonio Spurs,H,20
+Detroit Pistons,Toronto Raptors,A,2
+Washington Wizards,Cleveland Cavaliers,H,24
+Denver Nuggets,Atlanta Hawks,H,45
+Houston Rockets,Golden State Warriors,H,21
+Los Angeles Clippers,San Antonio Spurs,H,5
+Boston Celtics,Toronto Raptors,H,7
+Indiana Pacers,Miami Heat,H,8
+Memphis Grizzlies,Sacramento Kings,H,8
+Milwaukee Bucks,Chicago Bulls,H,19
+Minnesota Timberwolves,Portland Trail Blazers,H,16
+New Orleans Pelicans,New York Knicks,H,5
+Philadelphia 76ers,Utah Jazz,H,6
+Brooklyn Nets,Washington Wizards,A,11
+Utah Jazz,Boston Celtics,A,12
+Los Angeles Clippers,Brooklyn Nets,A,8
+Toronto Raptors,Chicago Bulls,A,39
+Philadelphia 76ers,Charlotte Hornets,A,3
+Dallas Mavericks,Golden State Warriors,H,3
+Houston Rockets,Sacramento Kings,H,20
+Indiana Pacers,Atlanta Hawks,H,8
+New Orleans Pelicans,Denver Nuggets,H,10
+Orlando Magic,Los Angeles Lakers,H,13
+Oklahoma City Thunder,Phoenix Suns,A,10
+Los Angeles Lakers,Miami Heat,A,16
+Memphis Grizzlies,Minnesota Timberwolves,A,13
+Orlando Magic,New York Knicks,H,14
+San Antonio Spurs,Golden State Warriors,H,12
+Portland Trail Blazers,Washington Wizards,A,10
+Los Angeles Clippers,Atlanta Hawks,A,8
+Charlotte Hornets,Boston Celtics,H,5
+Detroit Pistons,Cleveland Cavaliers,H,11
+Indiana Pacers,Utah Jazz,H,27
+Memphis Grizzlies,Dallas Mavericks,H,10
+Milwaukee Bucks,Denver Nuggets,H,6
+New Orleans Pelicans,San Antonio Spurs,H,14
+Philadelphia 76ers,Phoenix Suns,H,5
+Sacramento Kings,Oklahoma City Thunder,H,4
+Brooklyn Nets,Miami Heat,A,12
+Portland Trail Blazers,New York Knicks,A,4
+Toronto Raptors,Orlando Magic,A,2
+Washington Wizards,Los Angeles Clippers,H,7
+Toronto Raptors,Atlanta Hawks,A,16
+New York Knicks,Boston Celtics,A,8
+Chicago Bulls,Phoenix Suns,H,8
+Charlotte Hornets,Indiana Pacers,H,18
+Los Angeles Lakers,Cleveland Cavaliers,A,4
+Dallas Mavericks,Brooklyn Nets,H,6
+Oklahoma City Thunder,Golden State Warriors,A,28
+Houston Rockets,Detroit Pistons,H,2
+Milwaukee Bucks,Portland Trail Blazers,H,43
+Denver Nuggets,Minnesota Timberwolves,A,2
+Philadelphia 76ers,New Orleans Pelicans,H,1
+Memphis Grizzlies,San Antonio Spurs,A,1
+Sacramento Kings,Utah Jazz,A,9
+Boston Celtics,Atlanta Hawks,A,18
+Minnesota Timberwolves,Brooklyn Nets,A,10
+Miami Heat,Chicago Bulls,A,7
+Denver Nuggets,Orlando Magic,H,25
+Detroit Pistons,Houston Rockets,H,5
+Golden State Warriors,Portland Trail Blazers,H,28
+San Antonio Spurs,Indiana Pacers,A,11
+Los Angeles Clippers,Memphis Grizzlies,H,5
+Los Angeles Lakers,Utah Jazz,H,7
+Phoenix Suns,Milwaukee Bucks,A,2
+New York Knicks,New Orleans Pelicans,H,5
+Oklahoma City Thunder,Charlotte Hornets,H,5
+Cleveland Cavaliers,Philadelphia 76ers,A,9
+Toronto Raptors,Washington Wizards,H,18
+Cleveland Cavaliers,Houston Rockets,H,9
+Dallas Mavericks,Boston Celtics,H,9
+Golden State Warriors,Sacramento Kings,H,1
+Milwaukee Bucks,San Antonio Spurs,H,6
+Minnesota Timberwolves,Chicago Bulls,H,15
+Denver Nuggets,Oklahoma City Thunder,A,7
+Washington Wizards,New Orleans Pelicans,H,10
+Atlanta Hawks,Charlotte Hornets,H,1
+Philadelphia 76ers,Brooklyn Nets,A,2
+Detroit Pistons,Phoenix Suns,H,11
+Orlando Magic,Los Angeles Lakers,A,4
+New York Knicks,Memphis Grizzlies,A,5
+Los Angeles Clippers,Portland Trail Blazers,A,4
+Utah Jazz,Sacramento Kings,A,21
+Toronto Raptors,Miami Heat,H,10
+San Antonio Spurs,Chicago Bulls,A,1
+Charlotte Hornets,Milwaukee Bucks,H,3
+Minnesota Timberwolves,Cleveland Cavaliers,A,7
+Golden State Warriors,Orlando Magic,H,6
+Boston Celtics,New Orleans Pelicans,A,17
+Indiana Pacers,Utah Jazz,A,33
+Washington Wizards,Houston Rockets,H,4
+Denver Nuggets,Los Angeles Lakers,H,32
+Detroit Pistons,New York Knicks,H,7
+Toronto Raptors,Memphis Grizzlies,A,8
+Atlanta Hawks,Miami Heat,A,2
+Indiana Pacers,Phoenix Suns,A,5
+Utah Jazz,Brooklyn Nets,A,10
+Charlotte Hornets,Atlanta Hawks,H,14
+Dallas Mavericks,Houston Rockets,A,20
+Los Angeles Clippers,Phoenix Suns,H,16
+Milwaukee Bucks,Chicago Bulls,H,3
+Minnesota Timberwolves,San Antonio Spurs,H,39
+New Orleans Pelicans,Washington Wizards,H,21
+Oklahoma City Thunder,Cleveland Cavaliers,H,17
+Philadelphia 76ers,New York Knicks,H,26
+Portland Trail Blazers,Orlando Magic,H,3
+Los Angeles Lakers,Indiana Pacers,H,8
+Los Angeles Clippers,Sacramento Kings,A,12
+Toronto Raptors,Golden State Warriors,H,3
+Boston Celtics,Cleveland Cavaliers,H,33
+Memphis Grizzlies,Brooklyn Nets,A,6
+Utah Jazz,Charlotte Hornets,A,8
+Detroit Pistons,Chicago Bulls,H,19
+Los Angeles Lakers,Dallas Mavericks,H,11
+Miami Heat,New Orleans Pelicans,H,5
+Oklahoma City Thunder,Atlanta Hawks,H,15
+Philadelphia 76ers,Washington Wizards,H,25
+Orlando Magic,Phoenix Suns,A,14
+Denver Nuggets,Portland Trail Blazers,A,1
+Houston Rockets,San Antonio Spurs,A,31
+Toronto Raptors,Cleveland Cavaliers,A,11
+Detroit Pistons,Golden State Warriors,H,9
+Houston Rockets,Chicago Bulls,H,16
+Boston Celtics,Minnesota Timberwolves,A,9
+New York Knicks,Milwaukee Bucks,H,2
+Sacramento Kings,Indiana Pacers,H,1
+Washington Wizards,Brooklyn Nets,H,14
+New Orleans Pelicans,Charlotte Hornets,A,10
+Dallas Mavericks,Los Angeles Clippers,H,4
+Los Angeles Lakers,Phoenix Suns,H,24
+Miami Heat,Utah Jazz,H,2
+Philadelphia 76ers,Memphis Grizzlies,H,8
+San Antonio Spurs,Portland Trail Blazers,H,13
+Golden State Warriors,Atlanta Hawks,A,17
+Cleveland Cavaliers,Brooklyn Nets,A,2
+Oklahoma City Thunder,Detroit Pistons,A,27
+Minnesota Timberwolves,Houston Rockets,H,12
+Los Angeles Clippers,New Orleans Pelicans,A,3
+Washington Wizards,New York Knicks,A,3
+Denver Nuggets,Toronto Raptors,A,3
+Dallas Mavericks,Portland Trail Blazers,H,9
+Indiana Pacers,Chicago Bulls,H,6
+Orlando Magic,Miami Heat,A,15
+Sacramento Kings,Phoenix Suns,A,17
+Utah Jazz,San Antonio Spurs,H,34
+Washington Wizards,Atlanta Hawks,A,14
+Oklahoma City Thunder,Brooklyn Nets,A,2
+Golden State Warriors,Cleveland Cavaliers,A,24
+Los Angeles Lakers,San Antonio Spurs,H,8
+Memphis Grizzlies,Los Angeles Clippers,H,10
+Milwaukee Bucks,Detroit Pistons,H,23
+Minnesota Timberwolves,Charlotte Hornets,H,17
+New Orleans Pelicans,Dallas Mavericks,H,26
+Denver Nuggets,Orlando Magic,A,6
+Toronto Raptors,Philadelphia 76ers,H,11
+Boston Celtics,New York Knicks,H,28
+Portland Trail Blazers,Phoenix Suns,H,22
+Utah Jazz,Houston Rockets,H,27
+Brooklyn Nets,Toronto Raptors,H,1
+Chicago Bulls,Oklahoma City Thunder,H,2
+Charlotte Hornets,Denver Nuggets,H,6
+Sacramento Kings,Cleveland Cavaliers,A,19
+Philadelphia 76ers,Detroit Pistons,A,6
+Golden State Warriors,Milwaukee Bucks,A,10
+Memphis Grizzlies,New Orleans Pelicans,A,4
+Indiana Pacers,Orlando Magic,A,22
+Miami Heat,Phoenix Suns,A,17
+San Antonio Spurs,Los Angeles Lakers,H,13
+Atlanta Hawks,Denver Nuggets,H,8
+Boston Celtics,Chicago Bulls,A,56
+Cleveland Cavaliers,Washington Wizards,H,15
+Dallas Mavericks,Houston Rockets,H,3
+Indiana Pacers,Sacramento Kings,H,10
+Miami Heat,Los Angeles Clippers,A,23
+Los Angeles Lakers,Memphis Grizzlies,A,23
+Brooklyn Nets,New York Knicks,A,8
+Portland Trail Blazers,Minnesota Timberwolves,H,8
+New Orleans Pelicans,Detroit Pistons,A,8
+Charlotte Hornets,New York Knicks,A,12
+San Antonio Spurs,Utah Jazz,H,13
+Milwaukee Bucks,Toronto Raptors,A,5
+Boston Celtics,New Orleans Pelicans,H,13
+Sacramento Kings,Chicago Bulls,A,19
+Dallas Mavericks,Orlando Magic,H,25
+Denver Nuggets,Memphis Grizzlies,H,6
+Golden State Warriors,Minnesota Timberwolves,H,8
+Indiana Pacers,Washington Wizards,H,8
+Los Angeles Lakers,Miami Heat,H,3
+Milwaukee Bucks,Cleveland Cavaliers,H,16
+Oklahoma City Thunder,Utah Jazz,H,9
+Philadelphia 76ers,Detroit Pistons,H,14
+Los Angeles Clippers,Phoenix Suns,A,4
+Houston Rockets,Portland Trail Blazers,H,7
+Toronto Raptors,Los Angeles Clippers,A,24
+San Antonio Spurs,Phoenix Suns,H,25
+Charlotte Hornets,Detroit Pistons,H,1
+Cleveland Cavaliers,New York Knicks,H,7
+Dallas Mavericks,Atlanta Hawks,H,7
+Toronto Raptors,Golden State Warriors,A,20
+Indiana Pacers,Milwaukee Bucks,H,16
+Memphis Grizzlies,Portland Trail Blazers,H,9
+New Orleans Pelicans,Oklahoma City Thunder,H,4
+Brooklyn Nets,Philadelphia 76ers,A,3
+Sacramento Kings,Minnesota Timberwolves,H,11
+Utah Jazz,Miami Heat,H,27
+Boston Celtics,Washington Wizards,A,5
+Houston Rockets,Los Angeles Lakers,H,15
+Orlando Magic,Chicago Bulls,H,6
+Phoenix Suns,Dallas Mavericks,H,10
+San Antonio Spurs,Los Angeles Clippers,H,38
+Boston Celtics,Atlanta Hawks,H,21
+Brooklyn Nets,Washington Wizards,H,7
+New York Knicks,Charlotte Hornets,A,2
+Milwaukee Bucks,Cleveland Cavaliers,A,12
+Denver Nuggets,Oklahoma City Thunder,H,11
+Miami Heat,Memphis Grizzlies,A,3
+Indiana Pacers,Philadelphia 76ers,A,12
+Portland Trail Blazers,Toronto Raptors,H,6
+Golden State Warriors,Sacramento Kings,A,5
+Los Angeles Lakers,Charlotte Hornets,A,28
+Detroit Pistons,Boston Celtics,H,9
+Houston Rockets,Memphis Grizzlies,A,8
+Oklahoma City Thunder,Los Angeles Clippers,H,6
+Orlando Magic,Utah Jazz,H,7
+Phoenix Suns,Minnesota Timberwolves,H,8
+Chicago Bulls,San Antonio Spurs,A,5
+Brooklyn Nets,Atlanta Hawks,H,17
+Philadelphia 76ers,Cleveland Cavaliers,A,23
+Sacramento Kings,Dallas Mavericks,A,7
+Denver Nuggets,Toronto Raptors,H,9
+Indiana Pacers,New York Knicks,H,11
+Miami Heat,New Orleans Pelicans,A,6
+Washington Wizards,Los Angeles Lakers,H,18
+Milwaukee Bucks,Detroit Pistons,A,3
+Golden State Warriors,Memphis Grizzlies,H,17
+Houston Rockets,Utah Jazz,H,5
+Portland Trail Blazers,Los Angeles Clippers,A,4
+Minnesota Timberwolves,Sacramento Kings,H,27
+Phoenix Suns,New York Knicks,A,18
+Oklahoma City Thunder,Chicago Bulls,H,25
+San Antonio Spurs,Philadelphia 76ers,H,27
+Atlanta Hawks,Washington Wizards,H,8
+Brooklyn Nets,Los Angeles Lakers,H,5
+Denver Nuggets,Dallas Mavericks,H,8
+Cleveland Cavaliers,Indiana Pacers,A,1
+Phoenix Suns,Boston Celtics,A,8
+Brooklyn Nets,Chicago Bulls,A,3
+Charlotte Hornets,Cleveland Cavaliers,H,11
+Houston Rockets,Washington Wizards,H,18
+Milwaukee Bucks,New Orleans Pelicans,H,8
+Detroit Pistons,Minnesota Timberwolves,A,6
+San Antonio Spurs,Orlando Magic,A,39
+Philadelphia 76ers,New York Knicks,H,22
+Portland Trail Blazers,Memphis Grizzlies,H,7
+Oklahoma City Thunder,Sacramento Kings,A,19
+Toronto Raptors,Indiana Pacers,H,3
+Utah Jazz,Golden State Warriors,H,5
+Los Angeles Clippers,Dallas Mavericks,H,4
+Miami Heat,Houston Rockets,H,2
+Milwaukee Bucks,Boston Celtics,A,13
+Indiana Pacers,Brooklyn Nets,A,8
+Chicago Bulls,Orlando Magic,H,10
+Charlotte Hornets,Detroit Pistons,H,12
+Los Angeles Lakers,New Orleans Pelicans,H,8
+Atlanta Hawks,New York Knicks,A,7
+Utah Jazz,Portland Trail Blazers,A,30
+Sacramento Kings,Memphis Grizzlies,H,3
+San Antonio Spurs,Minnesota Timberwolves,H,26
+Toronto Raptors,Cleveland Cavaliers,H,16
+Golden State Warriors,Dallas Mavericks,H,4
+Houston Rockets,San Antonio Spurs,H,7
+Los Angeles Clippers,Denver Nuggets,H,21
+Miami Heat,Milwaukee Bucks,H,7
+Philadelphia 76ers,Toronto Raptors,H,25
+Oklahoma City Thunder,Utah Jazz,A,1
+Washington Wizards,Phoenix Suns,H,3
+Boston Celtics,Charlotte Hornets,H,16
+Brooklyn Nets,Phoenix Suns,H,8
+Chicago Bulls,Cleveland Cavaliers,A,20
+Atlanta Hawks,Detroit Pistons,A,3
+Golden State Warriors,Los Angeles Clippers,H,2
+Indiana Pacers,Washington Wizards,H,16
+Memphis Grizzlies,Los Angeles Lakers,A,8
+Minnesota Timberwolves,Oklahoma City Thunder,A,2
+Miami Heat,Orlando Magic,A,24
+Portland Trail Blazers,Dallas Mavericks,H,3
+Sacramento Kings,New Orleans Pelicans,H,5
+Boston Celtics,Philadelphia 76ers,H,7
+Los Angeles Lakers,Golden State Warriors,A,26
+Houston Rockets,Oklahoma City Thunder,H,4
+Milwaukee Bucks,New York Knicks,A,14
+Utah Jazz,Portland Trail Blazers,H,21
+Indiana Pacers,Atlanta Hawks,A,8
+Brooklyn Nets,Charlotte Hornets,H,2
+Minnesota Timberwolves,Chicago Bulls,A,25
+Dallas Mavericks,New Orleans Pelicans,H,3
+Detroit Pistons,Washington Wizards,H,11
+Los Angeles Clippers,Sacramento Kings,H,9
+Memphis Grizzlies,Cleveland Cavaliers,H,8
+Toronto Raptors,Miami Heat,A,2
+Phoenix Suns,Orlando Magic,A,2
+San Antonio Spurs,Denver Nuggets,H,8
+Portland Trail Blazers,Golden State Warriors,A,1
+Houston Rockets,Boston Celtics,H,14
+Milwaukee Bucks,New York Knicks,H,16
+Sacramento Kings,Los Angeles Lakers,H,1
+Philadelphia 76ers,Utah Jazz,A,17
+Charlotte Hornets,Brooklyn Nets,H,13
+Denver Nuggets,San Antonio Spurs,H,3
+Indiana Pacers,Detroit Pistons,H,37
+Los Angeles Clippers,Los Angeles Lakers,A,11
+Miami Heat,Cleveland Cavaliers,H,24
+Atlanta Hawks,Minnesota Timberwolves,A,3
+New Orleans Pelicans,Dallas Mavericks,H,2
+Orlando Magic,Toronto Raptors,H,29
+Oklahoma City Thunder,Phoenix Suns,A,16
+Chicago Bulls,Washington Wizards,A,9
+Atlanta Hawks,Cleveland Cavaliers,H,3
+San Antonio Spurs,Los Angeles Clippers,A,11
+Boston Celtics,Memphis Grizzlies,A,9
+Milwaukee Bucks,Brooklyn Nets,H,14
+Houston Rockets,New Orleans Pelicans,A,4
+Denver Nuggets,Phoenix Suns,A,4
+Golden State Warriors,Portland Trail Blazers,A,10
+Utah Jazz,New York Knicks,H,32
+Washington Wizards,Charlotte Hornets,H,4
+Dallas Mavericks,Oklahoma City Thunder,H,2
+Los Angeles Lakers,Sacramento Kings,H,7
+Minnesota Timberwolves,Miami Heat,A,9
+Orlando Magic,Detroit Pistons,H,2
+Portland Trail Blazers,Philadelphia 76ers,H,34
+Toronto Raptors,Chicago Bulls,H,6
+Charlotte Hornets,Orlando Magic,H,25
+Houston Rockets,Memphis Grizzlies,H,12
+Indiana Pacers,Atlanta Hawks,H,8
+New Orleans Pelicans,Minnesota Timberwolves,H,9
+Oklahoma City Thunder,Dallas Mavericks,H,20
+Golden State Warriors,Phoenix Suns,A,23
+San Antonio Spurs,Boston Celtics,H,9
+Denver Nuggets,New York Knicks,H,7
+Philadelphia 76ers,Los Angeles Clippers,A,6
+Milwaukee Bucks,Detroit Pistons,H,23
+Portland Trail Blazers,Sacramento Kings,A,5
+Toronto Raptors,Utah Jazz,H,6
+Boston Celtics,Minnesota Timberwolves,H,13
+Brooklyn Nets,New Orleans Pelicans,H,5
+Orlando Magic,Chicago Bulls,A,28
+Dallas Mavericks,Charlotte Hornets,A,38
+Miami Heat,Cleveland Cavaliers,A,25
+Oklahoma City Thunder,Los Angeles Lakers,A,7
+Detroit Pistons,Memphis Grizzlies,A,7
+Philadelphia 76ers,Phoenix Suns,A,5
+Washington Wizards,Atlanta Hawks,H,16
+Houston Rockets,Golden State Warriors,A,1
+Denver Nuggets,Sacramento Kings,A,4
+San Antonio Spurs,Toronto Raptors,H,18
+Boston Celtics,Dallas Mavericks,H,21
+Indiana Pacers,Chicago Bulls,A,3
+Utah Jazz,Cleveland Cavaliers,A,26
+New York Knicks,Los Angeles Lakers,A,7
+Brooklyn Nets,Memphis Grizzlies,A,9
+Miami Heat,Washington Wizards,H,6
+Milwaukee Bucks,Atlanta Hawks,H,32
+Minnesota Timberwolves,Orlando Magic,H,17
+Los Angeles Clippers,Phoenix Suns,A,10
+Oklahoma City Thunder,Portland Trail Blazers,A,2
+New Orleans Pelicans,Cleveland Cavaliers,A,35
+Denver Nuggets,Charlotte Hornets,H,13
+Utah Jazz,Detroit Pistons,A,5
+Toronto Raptors,Milwaukee Bucks,A,7
+Philadelphia 76ers,Dallas Mavericks,H,6
+Portland Trail Blazers,Houston Rockets,H,9
+Golden State Warriors,Sacramento Kings,A,4
+San Antonio Spurs,Memphis Grizzlies,H,20
+Atlanta Hawks,Miami Heat,H,24
+Brooklyn Nets,Chicago Bulls,A,17
+Los Angeles Clippers,Orlando Magic,H,10
+Minnesota Timberwolves,Los Angeles Lakers,H,22
+Washington Wizards,Oklahoma City Thunder,A,18
+Charlotte Hornets,Phoenix Suns,A,6
+Toronto Raptors,Indiana Pacers,H,16
+Boston Celtics,Brooklyn Nets,H,21
+Los Angeles Lakers,Dallas Mavericks,A,10
+San Antonio Spurs,Detroit Pistons,A,12
+Houston Rockets,Denver Nuggets,H,12
+Milwaukee Bucks,Utah Jazz,H,12
+New Orleans Pelicans,Memphis Grizzlies,H,19
+Portland Trail Blazers,New York Knicks,H,10
+Sacramento Kings,Orlando Magic,H,16
+Indiana Pacers,Cleveland Cavaliers,A,8
+Golden State Warriors,New York Knicks,H,27
+Los Angeles Clippers,Charlotte Hornets,H,19
+Denver Nuggets,Miami Heat,A,4
+Minnesota Timberwolves,Oklahoma City Thunder,A,2
+Philadelphia 76ers,Washington Wizards,H,17
+Phoenix Suns,Sacramento Kings,H,4
+Toronto Raptors,Atlanta Hawks,H,3
+Boston Celtics,Indiana Pacers,H,27
+Brooklyn Nets,Atlanta Hawks,H,16
+Dallas Mavericks,Phoenix Suns,H,10
+Milwaukee Bucks,Houston Rockets,A,7
+Los Angeles Lakers,Detroit Pistons,H,13
+Memphis Grizzlies,San Antonio Spurs,H,10
+New Orleans Pelicans,Cleveland Cavaliers,H,16
+Portland Trail Blazers,Chicago Bulls,H,12
+Utah Jazz,Orlando Magic,H,13
+Washington Wizards,Philadelphia 76ers,H,17
+Denver Nuggets,Los Angeles Clippers,H,21
+Miami Heat,Boston Celtics,H,16
+Sacramento Kings,Detroit Pistons,H,10
+San Antonio Spurs,Oklahoma City Thunder,H,7
+Golden State Warriors,Chicago Bulls,H,37
+Houston Rockets,Cleveland Cavaliers,H,28
+Dallas Mavericks,Minnesota Timberwolves,A,4
+Indiana Pacers,New York Knicks,A,15
+Atlanta Hawks,Philadelphia 76ers,A,2
+Portland Trail Blazers,Charlotte Hornets,H,31
+Toronto Raptors,Brooklyn Nets,H,17
+Utah Jazz,Los Angeles Lakers,H,18
+Washington Wizards,Milwaukee Bucks,H,7
+Detroit Pistons,Los Angeles Clippers,A,5
+Miami Heat,Memphis Grizzlies,H,4
+Minnesota Timberwolves,New Orleans Pelicans,H,4
+Oklahoma City Thunder,San Antonio Spurs,H,10
+Orlando Magic,Boston Celtics,H,2
+Phoenix Suns,Denver Nuggets,H,9
+Sacramento Kings,Charlotte Hornets,H,7
+Utah Jazz,Chicago Bulls,H,8
+Milwaukee Bucks,Atlanta Hawks,A,19
+Golden State Warriors,Dallas Mavericks,A,5
+Denver Nuggets,Portland Trail Blazers,H,3
+Cleveland Cavaliers,Los Angeles Lakers,A,6
+Philadelphia 76ers,New York Knicks,A,3
+Orlando Magic,Houston Rockets,H,7
+Toronto Raptors,Washington Wizards,A,2
+Brooklyn Nets,Boston Celtics,H,7
+Houston Rockets,Memphis Grizzlies,H,18
+New Orleans Pelicans,Los Angeles Clippers,A,4
+Sacramento Kings,Portland Trail Blazers,H,8
+Charlotte Hornets,San Antonio Spurs,A,15
+Utah Jazz,Detroit Pistons,H,6
+Atlanta Hawks,Oklahoma City Thunder,H,16
+Golden State Warriors,Denver Nuggets,A,31
+Indiana Pacers,Phoenix Suns,H,34
+Los Angeles Lakers,Chicago Bulls,H,7
+Milwaukee Bucks,Miami Heat,H,38
+Philadelphia 76ers,Minnesota Timberwolves,H,42
+Boston Celtics,Toronto Raptors,H,9
+San Antonio Spurs,Dallas Mavericks,A,4
+Detroit Pistons,Orlando Magic,H,5
+Golden State Warriors,New Orleans Pelicans,H,7
+Brooklyn Nets,Houston Rockets,A,3
+Utah Jazz,Los Angeles Clippers,A,20
+Milwaukee Bucks,Memphis Grizzlies,A,10
+Portland Trail Blazers,Cleveland Cavaliers,H,17
+Charlotte Hornets,Sacramento Kings,H,19
+Denver Nuggets,Chicago Bulls,H,30
+Philadelphia 76ers,Indiana Pacers,A,24
+Los Angeles Lakers,Oklahoma City Thunder,A,10
+Toronto Raptors,Phoenix Suns,H,2
+Washington Wizards,New York Knicks,H,1
+Boston Celtics,Memphis Grizzlies,H,6
+Detroit Pistons,Miami Heat,H,5
+Golden State Warriors,Los Angeles Clippers,A,18
+San Antonio Spurs,Minnesota Timberwolves,A,3
+Brooklyn Nets,Orlando Magic,A,2
+Portland Trail Blazers,New Orleans Pelicans,H,16
+Utah Jazz,Cleveland Cavaliers,H,16
+Boston Celtics,Atlanta Hawks,A,8
+Miami Heat,Chicago Bulls,A,14
+Charlotte Hornets,Phoenix Suns,H,20
+Denver Nuggets,Cleveland Cavaliers,H,22
+Sacramento Kings,Detroit Pistons,A,2
+Houston Rockets,Los Angeles Lakers,H,4
+Indiana Pacers,Dallas Mavericks,H,12
+Milwaukee Bucks,Orlando Magic,A,10
+Oklahoma City Thunder,Philadelphia 76ers,A,2
+Toronto Raptors,Memphis Grizzlies,H,29
+Indiana Pacers,Charlotte Hornets,H,25
+Minnesota Timberwolves,Phoenix Suns,H,2
+Los Angeles Clippers,San Antonio Spurs,A,8
+Orlando Magic,Atlanta Hawks,A,19
+Boston Celtics,Miami Heat,H,8
+Brooklyn Nets,Sacramento Kings,H,29
+Chicago Bulls,Cleveland Cavaliers,A,16
+Golden State Warriors,Los Angeles Lakers,A,19
+New Orleans Pelicans,Memphis Grizzlies,A,20
+Milwaukee Bucks,Dallas Mavericks,H,10
+Oklahoma City Thunder,New York Knicks,A,18
+Philadelphia 76ers,Houston Rockets,H,28
+Portland Trail Blazers,Utah Jazz,A,5
+Washington Wizards,Detroit Pistons,H,14
+Dallas Mavericks,Los Angeles Clippers,H,8
+Oklahoma City Thunder,Portland Trail Blazers,H,9
+Minnesota Timberwolves,Phoenix Suns,A,27
+Toronto Raptors,Sacramento Kings,H,15
+Boston Celtics,Cleveland Cavaliers,H,20
+Brooklyn Nets,Orlando Magic,H,4
+Atlanta Hawks,Chicago Bulls,A,20
+Indiana Pacers,Toronto Raptors,H,4
+Charlotte Hornets,Memphis Grizzlies,A,11
+Los Angeles Clippers,Miami Heat,A,12
+Detroit Pistons,New Orleans Pelicans,A,4
+Houston Rockets,New York Knicks,A,4
+Philadelphia 76ers,San Antonio Spurs,H,2
+Utah Jazz,Denver Nuggets,H,6
+Minnesota Timberwolves,Los Angeles Lakers,A,15
+Oklahoma City Thunder,New Orleans Pelicans,H,6
+Portland Trail Blazers,Phoenix Suns,A,14
+Golden State Warriors,Washington Wizards,A,8
+Brooklyn Nets,New York Knicks,H,10
+Los Angeles Clippers,Chicago Bulls,A,5
+Miami Heat,Cleveland Cavaliers,A,6
+Dallas Mavericks,Detroit Pistons,H,5
+Denver Nuggets,Phoenix Suns,H,37
+Houston Rockets,Toronto Raptors,H,2
+Sacramento Kings,Memphis Grizzlies,A,3
+Milwaukee Bucks,Charlotte Hornets,H,9
+Washington Wizards,Orlando Magic,A,4
+Utah Jazz,Minnesota Timberwolves,H,4
+Golden State Warriors,Boston Celtics,A,4
+Denver Nuggets,Philadelphia 76ers,H,16
+Memphis Grizzlies,Indiana Pacers,H,3
+San Antonio Spurs,New Orleans Pelicans,A,12
+Portland Trail Blazers,Atlanta Hawks,H,9
+Cleveland Cavaliers,Chicago Bulls,A,3
+Toronto Raptors,Dallas Mavericks,A,3
+Houston Rockets,Orlando Magic,H,5
+Los Angeles Clippers,Sacramento Kings,H,14
+Los Angeles Lakers,Phoenix Suns,H,14
+Utah Jazz,Minnesota Timberwolves,A,14
+Miami Heat,New York Knicks,A,9
+Oklahoma City Thunder,Milwaukee Bucks,H,6
+San Antonio Spurs,Washington Wizards,H,13
+Boston Celtics,Brooklyn Nets,H,8
+Charlotte Hornets,New York Knicks,H,9
+Golden State Warriors,Indiana Pacers,A,32
+Atlanta Hawks,Los Angeles Clippers,A,5
+Denver Nuggets,Memphis Grizzlies,A,3
+Brooklyn Nets,Chicago Bulls,H,5
+Cleveland Cavaliers,Washington Wizards,H,3
+Milwaukee Bucks,Detroit Pistons,A,10
+New Orleans Pelicans,Houston Rockets,A,5
+Philadelphia 76ers,Los Angeles Lakers,A,16
+Oklahoma City Thunder,Orlando Magic,A,9
+San Antonio Spurs,Phoenix Suns,H,2
+Boston Celtics,Charlotte Hornets,H,32
+Chicago Bulls,Miami Heat,A,16
+Minnesota Timberwolves,Memphis Grizzlies,H,2
+Denver Nuggets,New Orleans Pelicans,A,6
+Dallas Mavericks,New York Knicks,A,24
+Portland Trail Blazers,Utah Jazz,H,27
+Sacramento Kings,Atlanta Hawks,H,22
+Washington Wizards,Indiana Pacers,H,18
+Detroit Pistons,Dallas Mavericks,H,4
+Philadelphia 76ers,Golden State Warriors,A,9
+Los Angeles Lakers,Los Angeles Clippers,A,3
+Orlando Magic,Indiana Pacers,H,7
+San Antonio Spurs,Brooklyn Nets,H,3
+Milwaukee Bucks,Toronto Raptors,A,13
+Charlotte Hornets,Memphis Grizzlies,H,8
+Denver Nuggets,Houston Rockets,H,14
+Oklahoma City Thunder,Miami Heat,A,16
+Boston Celtics,New York Knicks,A,14
+Utah Jazz,Atlanta Hawks,H,16
+Charlotte Hornets,Chicago Bulls,H,7
+Dallas Mavericks,Cleveland Cavaliers,A,13
+Los Angeles Clippers,Detroit Pistons,A,10
+Golden State Warriors,Los Angeles Lakers,H,14
+Indiana Pacers,Miami Heat,A,7
+Denver Nuggets,Minnesota Timberwolves,A,1
+Orlando Magic,Brooklyn Nets,H,13
+Atlanta Hawks,Phoenix Suns,A,6
+Sacramento Kings,Philadelphia 76ers,H,7
+San Antonio Spurs,New Orleans Pelicans,H,5
+Houston Rockets,Utah Jazz,A,27
+Milwaukee Bucks,Washington Wizards,A,16
+Boston Celtics,Oklahoma City Thunder,H,5
+Memphis Grizzlies,New York Knicks,A,12
+Toronto Raptors,Los Angeles Clippers,H,18
+Milwaukee Bucks,Brooklyn Nets,A,19
+Detroit Pistons,Denver Nuggets,H,26
+Indiana Pacers,New Orleans Pelicans,A,2
+Houston Rockets,Phoenix Suns,A,8
+Sacramento Kings,San Antonio Spurs,H,15
+Atlanta Hawks,Washington Wizards,A,8
+Los Angeles Clippers,Charlotte Hornets,A,2
+Boston Celtics,Cleveland Cavaliers,A,7
+Indiana Pacers,Los Angeles Lakers,H,42
+Memphis Grizzlies,Minnesota Timberwolves,H,2
+Detroit Pistons,New York Knicks,A,13
+Oklahoma City Thunder,Orlando Magic,H,10
+Toronto Raptors,Philadelphia 76ers,A,12
+Miami Heat,Portland Trail Blazers,A,10
+Brooklyn Nets,Denver Nuggets,H,5
+New Orleans Pelicans,Chicago Bulls,A,5
+Dallas Mavericks,Charlotte Hornets,H,6
+Golden State Warriors,San Antonio Spurs,H,39
+Milwaukee Bucks,Washington Wizards,H,19
+Houston Rockets,Sacramento Kings,A,26
+Utah Jazz,Phoenix Suns,H,28
+Toronto Raptors,Atlanta Hawks,A,18
+Los Angeles Lakers,Boston Celtics,A,1
+Indiana Pacers,Los Angeles Clippers,H,24
+Oklahoma City Thunder,Memphis Grizzlies,H,22
+Orlando Magic,Minnesota Timberwolves,H,10
+Portland Trail Blazers,San Antonio Spurs,H,9
+Chicago Bulls,Brooklyn Nets,A,19
+Milwaukee Bucks,Dallas Mavericks,A,15
+Detroit Pistons,New York Knicks,H,17
+New Orleans Pelicans,Minnesota Timberwolves,H,5
+Philadelphia 76ers,Denver Nuggets,H,7
+Golden State Warriors,Phoenix Suns,A,10
+Sacramento Kings,Miami Heat,H,6
+Washington Wizards,Cleveland Cavaliers,H,13
+Charlotte Hornets,Atlanta Hawks,A,9
+Los Angeles Clippers,Boston Celtics,A,11
+Washington Wizards,Chicago Bulls,A,9
+Oklahoma City Thunder,Houston Rockets,A,5
+Indiana Pacers,Cleveland Cavaliers,H,15
+Memphis Grizzlies,New Orleans Pelicans,H,9
+Orlando Magic,Milwaukee Bucks,A,20
+Toronto Raptors,New York Knicks,A,5
+Utah Jazz,San Antonio Spurs,H,20
+Orlando Magic,Atlanta Hawks,A,16
+Dallas Mavericks,Portland Trail Blazers,H,1
+Golden State Warriors,Miami Heat,H,2
+Philadelphia 76ers,Los Angeles Lakers,H,23
+Sacramento Kings,Phoenix Suns,H,13
+Milwaukee Bucks,Chicago Bulls,A,13
+Cleveland Cavaliers,New York Knicks,H,3
+Denver Nuggets,Miami Heat,H,16
+Detroit Pistons,Washington Wizards,H,9
+Houston Rockets,Dallas Mavericks,H,16
+Indiana Pacers,Charlotte Hornets,H,9
+Minnesota Timberwolves,Los Angeles Clippers,H,10
+Oklahoma City Thunder,Portland Trail Blazers,H,9
+Toronto Raptors,Brooklyn Nets,H,2
+Atlanta Hawks,Los Angeles Lakers,H,4
+Golden State Warriors,Utah Jazz,H,7
+San Antonio Spurs,Memphis Grizzlies,A,1
+Orlando Magic,New Orleans Pelicans,A,30
+Boston Celtics,Philadelphia 76ers,A,3
+Boston Celtics,Detroit Pistons,H,8
+Chicago Bulls,Memphis Grizzlies,H,12
+Brooklyn Nets,Cleveland Cavaliers,A,9
+Miami Heat,Dallas Mavericks,A,11
+Denver Nuggets,Sacramento Kings,H,2
+Milwaukee Bucks,Indiana Pacers,A,9
+Los Angeles Clippers,Phoenix Suns,H,27
+Minnesota Timberwolves,Houston Rockets,H,10
+Philadelphia 76ers,New York Knicks,A,15
+Portland Trail Blazers,Golden State Warriors,H,22
+Toronto Raptors,Washington Wizards,H,9
+New York Knicks,Atlanta Hawks,A,15
+New Orleans Pelicans,Oklahoma City Thunder,H,9
+Orlando Magic,Charlotte Hornets,H,38
+Portland Trail Blazers,Brooklyn Nets,A,14
+Cleveland Cavaliers,Phoenix Suns,H,13
+Golden State Warriors,Sacramento Kings,H,2
+Los Angeles Lakers,Houston Rockets,H,5
+Milwaukee Bucks,Boston Celtics,H,1
+Philadelphia 76ers,Miami Heat,H,4
+Detroit Pistons,Atlanta Hawks,A,3
+Charlotte Hornets,Washington Wizards,H,13
+Denver Nuggets,Dallas Mavericks,A,10
+Indiana Pacers,New Orleans Pelicans,H,15
+Los Angeles Clippers,Memphis Grizzlies,A,6
+Minnesota Timberwolves,New York Knicks,A,11
+Oklahoma City Thunder,Utah Jazz,H,1
+Chicago Bulls,Orlando Magic,A,1
+Toronto Raptors,San Antonio Spurs,H,3
+Atlanta Hawks,Phoenix Suns,H,8
+Chicago Bulls,Boston Celtics,H,10
+Brooklyn Nets,Charlotte Hornets,A,2
+Cleveland Cavaliers,Memphis Grizzlies,H,5
+Houston Rockets,Golden State Warriors,A,6
+Detroit Pistons,Miami Heat,A,23
+Milwaukee Bucks,Minnesota Timberwolves,H,12
+New Orleans Pelicans,Los Angeles Lakers,H,13
+Sacramento Kings,Oklahoma City Thunder,A,3
+Portland Trail Blazers,Philadelphia 76ers,A,15
+Utah Jazz,Dallas Mavericks,H,16
+Indiana Pacers,Washington Wizards,A,7
+Denver Nuggets,Los Angeles Clippers,H,27
+New York Knicks,San Antonio Spurs,H,12
+Orlando Magic,Toronto Raptors,A,15
+Brooklyn Nets,San Antonio Spurs,H,16
+Milwaukee Bucks,Chicago Bulls,A,11
+Golden State Warriors,Charlotte Hornets,A,11
+Portland Trail Blazers,Cleveland Cavaliers,A,13
+Detroit Pistons,Indiana Pacers,H,4
+Houston Rockets,Atlanta Hawks,H,8
+Los Angeles Clippers,Dallas Mavericks,H,9
+Memphis Grizzlies,Los Angeles Lakers,H,5
+Phoenix Suns,Miami Heat,A,3
+Minnesota Timberwolves,Sacramento Kings,H,7
+Philadelphia 76ers,New Orleans Pelicans,A,1
+Denver Nuggets,Oklahoma City Thunder,H,9
+New York Knicks,Orlando Magic,H,5
+Toronto Raptors,Boston Celtics,H,23
+Atlanta Hawks,Minnesota Timberwolves,H,8
+Portland Trail Blazers,Boston Celtics,A,5
+Washington Wizards,Brooklyn Nets,A,9
+Houston Rockets,Charlotte Hornets,A,5
+Dallas Mavericks,Indiana Pacers,H,9
+Los Angeles Lakers,New Orleans Pelicans,H,6
+Chicago Bulls,Memphis Grizzlies,A,2
+Miami Heat,Golden State Warriors,H,1
+Milwaukee Bucks,Sacramento Kings,A,1
+San Antonio Spurs,Detroit Pistons,H,12
+Utah Jazz,Los Angeles Clippers,H,6
+Utah Jazz,Denver Nuggets,A,7
+Houston Rockets,Miami Heat,H,3
+Indiana Pacers,Minnesota Timberwolves,H,7
+Cleveland Cavaliers,New York Knicks,A,7
+Philadelphia 76ers,Oklahoma City Thunder,A,4
+Orlando Magic,Golden State Warriors,H,7
+Chicago Bulls,Atlanta Hawks,A,7
+Boston Celtics,Washington Wizards,H,11
+Charlotte Hornets,Brooklyn Nets,A,11
+Milwaukee Bucks,Los Angeles Lakers,A,11
+New Orleans Pelicans,Phoenix Suns,A,14
+Los Angeles Clippers,Sacramento Kings,A,7
+Toronto Raptors,Portland Trail Blazers,H,2
+Detroit Pistons,Cleveland Cavaliers,A,36
+Memphis Grizzlies,Dallas Mavericks,A,30
+New Orleans Pelicans,Denver Nuggets,A,8
+Orlando Magic,Indiana Pacers,A,5
+Miami Heat,Brooklyn Nets,H,29
+Golden State Warriors,Philadelphia 76ers,A,3
+Phoenix Suns,Los Angeles Lakers,H,9
+San Antonio Spurs,Oklahoma City Thunder,H,14
+Utah Jazz,Milwaukee Bucks,H,4
+Houston Rockets,Boston Celtics,A,11
+Atlanta Hawks,Chicago Bulls,A,5
+Portland Trail Blazers,Charlotte Hornets,A,10
+Cleveland Cavaliers,Orlando Magic,H,14
+Detroit Pistons,Toronto Raptors,H,5
+Los Angeles Clippers,New York Knicks,H,21
+Oklahoma City Thunder,Memphis Grizzlies,H,4
+Washington Wizards,Minnesota Timberwolves,H,14
+Brooklyn Nets,Dallas Mavericks,H,39
+Los Angeles Clippers,Los Angeles Lakers,A,8
+Miami Heat,Atlanta Hawks,H,1
+Phoenix Suns,Milwaukee Bucks,H,9
+Sacramento Kings,New York Knicks,H,7
+San Antonio Spurs,Denver Nuggets,H,1
+New Orleans Pelicans,Utah Jazz,A,3
+Boston Celtics,Golden State Warriors,A,33
+Indiana Pacers,Chicago Bulls,H,9
+Memphis Grizzlies,Portland Trail Blazers,H,9
+Minnesota Timberwolves,Oklahoma City Thunder,H,11
+Philadelphia 76ers,Orlando Magic,H,8
+Houston Rockets,Toronto Raptors,A,12
+San Antonio Spurs,Atlanta Hawks,A,7
+Brooklyn Nets,Cleveland Cavaliers,H,6
+Chicago Bulls,Philadelphia 76ers,H,1
+Miami Heat,Charlotte Hornets,A,7
+Detroit Pistons,Minnesota Timberwolves,H,17
+Denver Nuggets,Los Angeles Lakers,A,16
+Utah Jazz,New Orleans Pelicans,A,10
+Phoenix Suns,New York Knicks,H,11
+Boston Celtics,Sacramento Kings,A,2
+Washington Wizards,Dallas Mavericks,H,9
+Milwaukee Bucks,Indiana Pacers,H,19
+Oklahoma City Thunder,Portland Trail Blazers,A,8
+Detroit Pistons,Chicago Bulls,A,8
+Charlotte Hornets,Washington Wizards,H,1
+Golden State Warriors,Denver Nuggets,H,17
+Houston Rockets,Philadelphia 76ers,H,16
+Los Angeles Clippers,Oklahoma City Thunder,H,8
+Memphis Grizzlies,Utah Jazz,H,10
+Miami Heat,Cleveland Cavaliers,H,16
+Toronto Raptors,New Orleans Pelicans,A,23
+Orlando Magic,Dallas Mavericks,H,5
+Brooklyn Nets,Atlanta Hawks,A,2
+Boston Celtics,Los Angeles Lakers,A,13
+Milwaukee Bucks,Charlotte Hornets,H,17
+Minnesota Timberwolves,Washington Wizards,H,5
+Sacramento Kings,New York Knicks,A,8
+Portland Trail Blazers,Phoenix Suns,H,7
+Atlanta Hawks,New Orleans Pelicans,H,12
+Houston Rockets,Dallas Mavericks,A,1
+Detroit Pistons,Chicago Bulls,H,23
+Phoenix Suns,Golden State Warriors,A,4
+Memphis Grizzlies,Orlando Magic,H,8
+Toronto Raptors,Miami Heat,A,21
+Minnesota Timberwolves,New York Knicks,H,11
+Philadelphia 76ers,Indiana Pacers,H,17
+San Antonio Spurs,Milwaukee Bucks,H,7
+Brooklyn Nets,Detroit Pistons,H,28
+Cleveland Cavaliers,Toronto Raptors,H,25
+Houston Rockets,Charlotte Hornets,H,12
+Los Angeles Clippers,Boston Celtics,H,25
+Oklahoma City Thunder,Utah Jazz,A,9
+Washington Wizards,Sacramento Kings,H,6
+Los Angeles Lakers,Chicago Bulls,A,16
+San Antonio Spurs,Dallas Mavericks,A,7
+Denver Nuggets,Minnesota Timberwolves,H,26
+Indiana Pacers,New York Knicks,H,5
+Portland Trail Blazers,Los Angeles Clippers,A,21
+Milwaukee Bucks,New Orleans Pelicans,A,17
+Philadelphia 76ers,Cleveland Cavaliers,H,7
+Atlanta Hawks,Memphis Grizzlies,H,21
+Golden State Warriors,Houston Rockets,A,2
+Miami Heat,Detroit Pistons,H,34
+Oklahoma City Thunder,Brooklyn Nets,H,12
+Utah Jazz,Phoenix Suns,A,17
+Washington Wizards,Orlando Magic,H,10
+Boston Celtics,Sacramento Kings,H,6
+Denver Nuggets,Dallas Mavericks,H,1
+Indiana Pacers,Oklahoma City Thunder,H,2
+Orlando Magic,Cleveland Cavaliers,H,29
+Toronto Raptors,Los Angeles Lakers,H,13
+Utah Jazz,Minnesota Timberwolves,H,20
+Detroit Pistons,Los Angeles Lakers,H,14
+Houston Rockets,Phoenix Suns,H,6
+Los Angeles Clippers,Chicago Bulls,H,7
+Milwaukee Bucks,Miami Heat,A,15
+Portland Trail Blazers,New Orleans Pelicans,A,12
+Philadelphia 76ers,Sacramento Kings,H,9
+San Antonio Spurs,New York Knicks,H,26
+Charlotte Hornets,Washington Wizards,A,6
+Boston Celtics,Atlanta Hawks,H,9
+Dallas Mavericks,Cleveland Cavaliers,H,5
+Denver Nuggets,Indiana Pacers,H,2
+Phoenix Suns,New Orleans Pelicans,A,2
+Golden State Warriors,Oklahoma City Thunder,A,22
+San Antonio Spurs,Portland Trail Blazers,H,5
+Utah Jazz,Brooklyn Nets,H,16
+Washington Wizards,Memphis Grizzlies,H,7
+Detroit Pistons,Toronto Raptors,H,3
+Houston Rockets,Minnesota Timberwolves,H,15
+Los Angeles Clippers,Brooklyn Nets,H,3
+Miami Heat,Charlotte Hornets,H,18
+Philadelphia 76ers,Milwaukee Bucks,A,5
+New York Knicks,Los Angeles Lakers,H,1
+Orlando Magic,Atlanta Hawks,H,10
+Sacramento Kings,Chicago Bulls,H,27
+Denver Nuggets,Boston Celtics,A,9
+Cleveland Cavaliers,Detroit Pistons,H,7
+New Orleans Pelicans,Dallas Mavericks,A,4
+Miami Heat,Oklahoma City Thunder,A,9
+Chicago Bulls,Phoenix Suns,A,15
+Portland Trail Blazers,Indiana Pacers,H,8
+San Antonio Spurs,Golden State Warriors,H,6
+Toronto Raptors,New York Knicks,H,36
+Utah Jazz,Washington Wizards,A,21
+Houston Rockets,Atlanta Hawks,A,16
+Philadelphia 76ers,Charlotte Hornets,A,4
+Los Angeles Clippers,Indiana Pacers,H,6
+Milwaukee Bucks,Los Angeles Lakers,H,14
+Golden State Warriors,Minnesota Timberwolves,A,10
+Brooklyn Nets,Sacramento Kings,A,2
+Chicago Bulls,Washington Wizards,H,6
+Cleveland Cavaliers,Milwaukee Bucks,H,5
+Memphis Grizzlies,Houston Rockets,H,1
+Utah Jazz,New York Knicks,A,21
+Toronto Raptors,Oklahoma City Thunder,A,9
+Orlando Magic,New Orleans Pelicans,H,23
+Philadelphia 76ers,Boston Celtics,H,3
+Portland Trail Blazers,Dallas Mavericks,H,8
+Miami Heat,San Antonio Spurs,A,5
+Atlanta Hawks,Utah Jazz,H,3
+Charlotte Hornets,Minnesota Timberwolves,H,7
+Golden State Warriors,Indiana Pacers,H,23
+Detroit Pistons,Phoenix Suns,A,20
+Sacramento Kings,Dallas Mavericks,H,16
+Denver Nuggets,Washington Wizards,A,5
+Los Angeles Clippers,Cleveland Cavaliers,A,2
+Houston Rockets,San Antonio Spurs,H,6
+Brooklyn Nets,Los Angeles Lakers,A,5
+Milwaukee Bucks,Miami Heat,H,29
+Denver Nuggets,New York Knicks,A,18
+Orlando Magic,Memphis Grizzlies,H,4
+Oklahoma City Thunder,Toronto Raptors,A,7
+Atlanta Hawks,Philadelphia 76ers,H,2
+Utah Jazz,Chicago Bulls,A,31
+Charlotte Hornets,Boston Celtics,H,7
+Dallas Mavericks,Golden State Warriors,A,35
+Minnesota Timberwolves,Memphis Grizzlies,A,13
+Portland Trail Blazers,Detroit Pistons,H,5
+Sacramento Kings,Phoenix Suns,H,9
+Miami Heat,Washington Wizards,A,5
+San Antonio Spurs,Boston Celtics,A,19
+Golden State Warriors,Detroit Pistons,H,7
+Indiana Pacers,Denver Nuggets,H,36
+Los Angeles Lakers,Sacramento Kings,H,5
+Milwaukee Bucks,Cleveland Cavaliers,H,22
+Houston Rockets,New Orleans Pelicans,A,23
+Los Angeles Clippers,New York Knicks,A,11
+Charlotte Hornets,Toronto Raptors,A,1
+Memphis Grizzlies,Oklahoma City Thunder,H,12
+Orlando Magic,Philadelphia 76ers,H,21
+Portland Trail Blazers,Brooklyn Nets,H,4
+Utah Jazz,Phoenix Suns,H,33
+Charlotte Hornets,San Antonio Spurs,H,9
+Boston Celtics,Cleveland Cavaliers,A,10
+Sacramento Kings,Dallas Mavericks,A,4
+Denver Nuggets,Detroit Pistons,H,3
+Los Angeles Lakers,Washington Wizards,H,18
+Orlando Magic,Miami Heat,A,5
+Milwaukee Bucks,Houston Rockets,H,14
+Los Angeles Clippers,Minnesota Timberwolves,A,11
+Atlanta Hawks,New Orleans Pelicans,A,10
+Toronto Raptors,Chicago Bulls,H,9
+Portland Trail Blazers,Chicago Bulls,A,20
+Golden State Warriors,Memphis Grizzlies,A,15
+Oklahoma City Thunder,Indiana Pacers,H,8
+Washington Wizards,Phoenix Suns,A,3
+Utah Jazz,Los Angeles Lakers,H,15
+Detroit Pistons,Orlando Magic,H,17
+Houston Rockets,Denver Nuggets,H,27
+Miami Heat,Dallas Mavericks,H,6
+Milwaukee Bucks,Los Angeles Clippers,H,10
+New Orleans Pelicans,Sacramento Kings,H,3
+Toronto Raptors,New York Knicks,A,25
+Philadelphia 76ers,Brooklyn Nets,H,13
+San Antonio Spurs,Cleveland Cavaliers,H,6
+Portland Trail Blazers,Atlanta Hawks,A,20
+Boston Celtics,Indiana Pacers,H,2
+Los Angeles Lakers,Charlotte Hornets,H,14
+Minnesota Timberwolves,Golden State Warriors,H,1
+Denver Nuggets,Oklahoma City Thunder,A,10
+Utah Jazz,Washington Wizards,H,4
+Brooklyn Nets,Boston Celtics,H,14
+Toronto Raptors,Chicago Bulls,A,23
+Detroit Pistons,Portland Trail Blazers,H,9
+Houston Rockets,Sacramento Kings,H,11
+Orlando Magic,Indiana Pacers,A,5
+Los Angeles Clippers,Cleveland Cavaliers,H,24
+Philadelphia 76ers,Minnesota Timberwolves,A,9
+Miami Heat,New York Knicks,A,8
+Memphis Grizzlies,Phoenix Suns,A,5
+Atlanta Hawks,Milwaukee Bucks,H,1
+Washington Wizards,Denver Nuggets,A,5
+Golden State Warriors,Charlotte Hornets,H,47
+Los Angeles Clippers,Memphis Grizzlies,H,17
+Los Angeles Lakers,New Orleans Pelicans,A,28
+Dallas Mavericks,Oklahoma City Thunder,A,3
+Sacramento Kings,San Antonio Spurs,A,7
+Boston Celtics,Miami Heat,H,5
+Milwaukee Bucks,Brooklyn Nets,A,10
+Dallas Mavericks,Philadelphia 76ers,H,20
+Indiana Pacers,Detroit Pistons,H,9
+Portland Trail Blazers,Minnesota Timberwolves,A,10
+New York Knicks,Chicago Bulls,H,8
+Phoenix Suns,Cleveland Cavaliers,H,9
+Toronto Raptors,Orlando Magic,H,12
+Utah Jazz,Charlotte Hornets,H,9
+Golden State Warriors,Denver Nuggets,H,14
+Oklahoma City Thunder,Los Angeles Lakers,H,16
+Houston Rockets,Sacramento Kings,A,25
+San Antonio Spurs,Atlanta Hawks,H,6
+Atlanta Hawks,Philadelphia 76ers,H,8
+Toronto Raptors,Brooklyn Nets,A,10
+Minnesota Timberwolves,Dallas Mavericks,A,2
+Denver Nuggets,San Antonio Spurs,H,28
+Indiana Pacers,Detroit Pistons,A,19
+Houston Rockets,Los Angeles Clippers,A,32
+Boston Celtics,Miami Heat,A,10
+Charlotte Hornets,New Orleans Pelicans,A,6
+Orlando Magic,New York Knicks,H,14
+Utah Jazz,Phoenix Suns,A,21
+Portland Trail Blazers,Memphis Grizzlies,H,27
+Chicago Bulls,Washington Wizards,A,1
+Golden State Warriors,Los Angeles Lakers,A,18
+Milwaukee Bucks,Philadelphia 76ers,A,6
+Sacramento Kings,Cleveland Cavaliers,H,13
+Charlotte Hornets,Toronto Raptors,H,2
+Memphis Grizzlies,Dallas Mavericks,A,10
+Denver Nuggets,Portland Trail Blazers,H,9
+Golden State Warriors,Cleveland Cavaliers,H,6
+Houston Rockets,New York Knicks,H,24
+Boston Celtics,Indiana Pacers,A,20
+Los Angeles Lakers,Los Angeles Clippers,A,5
+Minnesota Timberwolves,Miami Heat,H,2
+Oklahoma City Thunder,Detroit Pistons,H,13
+Orlando Magic,Atlanta Hawks,H,36
+Phoenix Suns,New Orleans Pelicans,H,7
+Utah Jazz,Sacramento Kings,H,21
+San Antonio Spurs,Washington Wizards,A,17
+Philadelphia 76ers,Chicago Bulls,A,20
+Brooklyn Nets,Milwaukee Bucks,A,5
+Orlando Magic,Boston Celtics,A,8
+San Antonio Spurs,Cleveland Cavaliers,A,22
+Charlotte Hornets,Detroit Pistons,A,13
+Golden State Warriors,Los Angeles Clippers,H,27
+Houston Rockets,Phoenix Suns,H,36
+Brooklyn Nets,Indiana Pacers,A,12
+Los Angeles Lakers,Utah Jazz,H,4
+Dallas Mavericks,Memphis Grizzlies,A,2
+Milwaukee Bucks,Atlanta Hawks,H,8
+Oklahoma City Thunder,Minnesota Timberwolves,A,6
+New York Knicks,Washington Wizards,H,3
+Portland Trail Blazers,Denver Nuggets,H,7
+New Orleans Pelicans,Sacramento Kings,A,4
+Toronto Raptors,Miami Heat,H,8
+New York Knicks,Chicago Bulls,A,10
+Charlotte Hornets,Cleveland Cavaliers,A,27
+Dallas Mavericks,Phoenix Suns,H,11
+Detroit Pistons,Memphis Grizzlies,H,7
+Portland Trail Blazers,Los Angeles Lakers,A,3
+Miami Heat,Philadelphia 76ers,H,23
+Toronto Raptors,Minnesota Timberwolves,A,20
+Golden State Warriors,New Orleans Pelicans,A,9
+Oklahoma City Thunder,Houston Rockets,H,1
+Utah Jazz,Denver Nuggets,H,10
+Boston Celtics,Washington Wizards,A,6
+Indiana Pacers,Atlanta Hawks,A,1
+Brooklyn Nets,Miami Heat,H,19
+Orlando Magic,Charlotte Hornets,A,8
+Denver Nuggets,Minnesota Timberwolves,H,4
+Los Angeles Clippers,Utah Jazz,H,6
+Memphis Grizzlies,Golden State Warriors,H,15
+Oklahoma City Thunder,Milwaukee Bucks,A,11
+Detroit Pistons,New York Knicks,A,26
+Philadelphia 76ers,Chicago Bulls,H,16
+Portland Trail Blazers,Sacramento Kings,H,5
+San Antonio Spurs,Dallas Mavericks,H,11
