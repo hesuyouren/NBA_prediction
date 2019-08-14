@@ -16,11 +16,11 @@ with open('17-18_original_result.csv',newline='') as base_data:
 
             diff = int(line[3]) - int(line[5])
             if diff < 0: # home team wins
-                win_T, lose_T = line[4], line[2]
+                win_T, lose_T = line[4].rstrip('*'), line[2].rstrip('*') # In case there is a '*' in the end of the string
                 win_L = "H"
                 diff = abs(diff)
             else: # away team wins
-                win_T, lose_T = line[2], line[4]
+                win_T, lose_T = line[2].rstrip('*'), line[4].rstrip('*')
                 win_L = "A"
                 diff = abs(diff)
             write_lines_b.append([win_T, lose_T, win_L, diff])
@@ -47,11 +47,11 @@ with open('18-19_original_result.csv',newline='') as test_data:
 
             diff = int(line[3]) - int(line[5])
             if diff < 0: # home team wins
-                win_T, lose_T = line[4], line[2]
+                win_T, lose_T = line[4].rstrip('*'), line[2].rstrip('*')
                 win_L = "H"
                 diff = abs(diff)
             else: # away team wins
-                win_T, lose_T = line[2], line[4]
+                win_T, lose_T = line[2].rstrip('*'), line[4].rstrip('*')
                 win_L = "A"
                 diff = abs(diff)
             write_lines_t.append([win_T, lose_T, win_L, diff])
